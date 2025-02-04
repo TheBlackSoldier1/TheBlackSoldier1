@@ -1,5 +1,9 @@
 ## 👋 Hola, Soy TheBlackSoldier1
-
+ -  Me interesa la programación, Base de datos y desarrollo Web.
+ -  Actualmente estoy estudiando ingeniería en informática.
+ -  Puedes contactarme por correo electrónico a Matias_baeza_1@outlook.com.
+ -  Sobre mí: Soy un estudiante de informática que está aprendiendo sobre programación y esforzándome cada día para mejorar mis habilidades.
+    Mi objetivo es seguir creciendo en este campo y adquirir los conocimientos necesarios para alcanzar mis metas.
 <!--
 **TheBlackSoldier1/TheBlackSoldier1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
