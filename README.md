@@ -1,4 +1,5 @@
-# 👋 ¡Hola! Soy The_Infinite_Code
+# 👋 ¡Hola! Soy Matías 
+Seudónimo (The_Infinite_Code)
 
 ## 🎓 Actualmente
 
