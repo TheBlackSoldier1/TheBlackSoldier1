@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy TheBlackSoldier1
+# 👋 ¡Hola! Soy The_Infinite_Code
 
 ## 🎓 Actualmente
 
